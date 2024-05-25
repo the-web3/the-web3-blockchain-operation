@@ -1,0 +1,14 @@
+{
+  "name": "the-web3-blockchain-operation",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "the-web3-blockchain-operation"
+    }
+  },
+  "dependencies": {
+    "dapplink-secret": "git+ssh://git@github.com:eniac-x-labs/dapplink-secret.git"
+  }
+
+}
